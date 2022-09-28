@@ -1,7 +1,5 @@
-# BEM VINDO
+# BEM VINDO AO PROJETO INSTAGRAM
 
 ### Exercicio do bootcamp HTML Web Developer
 
-Nesse capitulo sera abordado elementos de HTML CSS contendo Flexbox e seus derivados
-
-
+Esse projeto contém elementos de HTML e CSS incluindo Flexbox e seus derivados
